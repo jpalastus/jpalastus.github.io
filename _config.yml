@@ -3,7 +3,6 @@ plugins:
 - jekyll-remote-theme
 title: João Paulo Almeida de Mendonça
 logo: profile.png
-description: Research Engineer, Laboratoire SIMaP
-Universite Grenoble Alpes, France
+description: Research Engineer, Laboratoire SIMaP, Université Grenoble Alpes, France
 show_downloads: false
 
