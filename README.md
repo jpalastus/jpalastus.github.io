@@ -10,7 +10,7 @@ An important part of my works is the use of **bioinspired algorithms** (mostly e
 
 - **2016 - 2020   Physics Ph.D.**
   - Universidade Federal de Juiz de Fora, UFJF, Juiz De Fora, Brazil
-  - Title: _Técnicas Tradicionais e Modernas para Simulação em Física_ (Traditional and Modern Techniques for Simulation in Physics) - [link](https://repositorio.ufjf.br/jspui/handle/ufjf/13131)
+  - Title: _Técnicas Tradicionais e Modernas para Simulação em Física_ (Traditional and Modern Simulation Techniques in Physics) - [link](https://repositorio.ufjf.br/jspui/handle/ufjf/13131)
   - Advisor: [Fernando Sato](https://www.fisica.ufjf.br/~sjfsato/)
 
 - **2014 - 2016 	Physics Master**
