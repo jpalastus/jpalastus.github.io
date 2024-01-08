@@ -18,12 +18,12 @@ An important part of my works is the use of **bioinspired algorithms** (mostly e
   - Title: _Estrutura, Espectro e Síntese do Óxido de Grafeno do Ponto de Vista Computacional Atomístico_ (Structure, Spectrum and Synthesis of Graphene Oxide from Computational Atomistic Point of View)  - [link](https://repositorio.ufjf.br/jspui/handle/ufjf/8129)
   - Advisor: [Fernando Sato](https://www.fisica.ufjf.br/~sjfsato/) & [Georgia Maria Amaral Junqueira](https://scholar.google.com.br/citations?user=7lIH-p4AAAAJ)
 
-- **2013 - 2014 	Graduation in Physics**
+- **2013 - 2014 	Bachelor in Physics**
   - Universidade Federal de Juiz de Fora, UFJF, Juiz De Fora, Brazil
   - Title: _Energia de Superfície de Estruturas Metálicas Porosas com Potencial TB-SMA_ (Surface Energy of Porous Metal Structures via TB-SMA Potential)
   - Advisor: [Fernando Sato](https://www.fisica.ufjf.br/~sjfsato/)
 
-- **2010 - 2013 	Graduation in Interdisciplinary Bachelor of Exact Sciences**
+- **2010 - 2013 	Interdisciplinary Bachelor of Exact Sciences**
   - Universidade Federal de Juiz de Fora, UFJF, Juiz De Fora, Brazil
   - Title: _Uma aplicação da Geometria de Manhattan à Cristalografia_ (An Application of the Manhattan Geometry to Crystallography)
   - Advisor: [Fernando Sato](https://www.fisica.ufjf.br/~sjfsato/)
