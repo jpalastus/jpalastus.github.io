@@ -1,10 +1,6 @@
----
-layout: default
----
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Scholar Google](https://scholar.google.com/citations?user=KtS3vY4AAAAJ).
 
 There should be whitespace between paragraphs.
 
