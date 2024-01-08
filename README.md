@@ -36,7 +36,7 @@ An important part of my works is the use of **bioinspired algorithms** (mostly e
 * * *
 
 ### Some links
-To follow my academic prodiction, you can check my [Scholar Google](https://scholar.google.com/citations?user=KtS3vY4AAAAJ) or [Researcher ID / Publons](https://publons.com/researcher/K-8608-2017/).
+To follow my academic production, you can check my [Scholar Google](https://scholar.google.com/citations?user=KtS3vY4AAAAJ) or [Researcher ID / Publons](https://publons.com/researcher/K-8608-2017/).
 I also try to be active on [Research Gate](https://www.researchgate.net/profile/J_Mendonca3) and [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-almeida-de-mendon%C3%A7a-574598b1/) as much as possible. 
 
 For fellow Brazilians, here is my [Curriculum Lattes](http://lattes.cnpq.br/9634543121104157). Out of work hours, be free to find me as Alastus in [Instagram](https://www.instagram.com/alastus/), [Steam](https://steamcommunity.com/id/alastus), [Roll20](https://app.roll20.net/users/5980503/alastus)...
