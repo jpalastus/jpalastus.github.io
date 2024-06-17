@@ -4,7 +4,12 @@ I work with **computer physics**, applying it to **materials science** and compl
 
 An important part of my works is the use of **bioinspired algorithms** (mostly evolutionary or particles swarm algorithms) and **machine learning approaches** (e.g., ANNs, clustering, and manifold learning), combinig it with well know **classical and first principle calculations** software (both pakages like _LAMMPS_, _xTB_, and _ORCA_; and libraries like _PySCF_).
 
-* * * 
+* * *
+
+[NOTEBOOKS FOR **Solidification School 2024 - Théories, Outils et Applications**](https://github.com/jpalastus/Notebooks/tree/main/Oleron%20Solidification%20School%202024)
+
+* * *
+
 
 ### Academic background 
 
