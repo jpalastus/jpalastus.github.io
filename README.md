@@ -4,6 +4,8 @@ I work with **computer physics**, applying it to **materials science** and compl
 
 An important part of my works is the use of **bioinspired algorithms** (mostly evolutionary or particles swarm algorithms) and **machine learning approaches** (e.g., ANNs, clustering, and manifold learning), combinig it with well know **classical and first principle calculations** software (both pakages like _LAMMPS_, _xTB_, and _ORCA_; and libraries like _PySCF_).
 
+Recently, I have been doing my research at SIMaP (Grenoble - FR) on the development of [machine learning functionals](https://doi.org/10.1021/acs.jctc.3c00600) to model systems with spin crossover via DFT.  I work as a research engineer on the [DIAMOND project](https://diamond-diadem.github.io/), developping machine learning workflows with other material science researchers.
+
 * * *
 
 [NOTEBOOKS FOR **Solidification School 2024 - Théories, Outils et Applications**](https://github.com/jpalastus/Notebooks/tree/main/Oleron%20Solidification%20School%202024)
@@ -32,11 +34,11 @@ An important part of my works is the use of **bioinspired algorithms** (mostly e
   - Universidade Federal de Juiz de Fora, UFJF, Juiz De Fora, Brazil
   - Title: _Uma aplicação da Geometria de Manhattan à Cristalografia_ (An Application of the Manhattan Geometry to Crystallography)
   - Advisor: [Fernando Sato](https://www.fisica.ufjf.br/~sjfsato/)
-
+<!---
 - **2008 - 2009 	Technical Education - Electronics Technician**
   - SENAI - Departamento Regional de Minas Gerais, SENAI/DR/MG, Belo Horizonte, Brazil
   - Sponsered by _Mendes Júnior Trading e Engenharia S.A._ in Juiz de Fora - MG
-
+-->
 
 * * *
 
