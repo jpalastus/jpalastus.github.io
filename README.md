@@ -44,7 +44,11 @@ Recently, I have been doing my research at SIMaP (Grenoble - FR) on the developm
 
 ### Some links
 To follow my academic production, you can check my [Scholar Google](https://scholar.google.com/citations?user=KtS3vY4AAAAJ) or [Researcher ID / Publons](https://publons.com/researcher/K-8608-2017/).
-I also try to be active on [Research Gate](https://www.researchgate.net/profile/J_Mendonca3) and [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-almeida-de-mendon%C3%A7a-574598b1/) as much as possible. 
+I also try to be active on [Research Gate](https://www.researchgate.net/profile/J_Mendonca3) and [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-almeida-de-mendon%C3%A7a-574598b1/) as much as possible.
 
-For fellow Brazilians, here is my [Curriculum Lattes](http://lattes.cnpq.br/9634543121104157). Out of work hours, be free to find me as Alastus in [Instagram](https://www.instagram.com/alastus/), [Steam](https://steamcommunity.com/id/alastus), [Roll20](https://app.roll20.net/users/5980503/alastus)...
+You can also send me an email via **joao-paulo.almeida-de-mendonca@grenoble-inp.fr**, just identify yourself.
+
+For fellow Brazilians, here is my [Curriculum Lattes](http://lattes.cnpq.br/9634543121104157). 
+
+Out of work hours, be free to find me as Alastus in [Instagram](https://www.instagram.com/alastus/), [Steam](https://steamcommunity.com/id/alastus), [Roll20](https://app.roll20.net/users/5980503/alastus)...
 
