@@ -29,11 +29,6 @@ Recently, I have been doing my research at SIMaP (Grenoble - FR) on the developm
   - Universidade Federal de Juiz de Fora, UFJF, Juiz De Fora, Brazil
   - Title: _Uma aplicação da Geometria de Manhattan à Cristalografia_ (An Application of the Manhattan Geometry to Crystallography)
   - Advisor: [Fernando Sato](https://www.fisica.ufjf.br/~sjfsato/)
-<!--
-- **2008 - 2009 	Technical Education - Electronics Technician**
-  - SENAI - Departamento Regional de Minas Gerais, SENAI/DR/MG, Belo Horizonte, Brazil
-  - Sponsered by _Mendes Júnior Trading e Engenharia S.A._ in Juiz de Fora - MG
--->
 
 * * *
 
