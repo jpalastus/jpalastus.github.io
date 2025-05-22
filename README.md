@@ -1,10 +1,10 @@
 ### About me
 
-I work with **computer physics**, applying it to **materials science** and complex systems (the last one mostly for fun). Most of my time is spended coding for my own projects and helping other researchers to improve their **data management tools** and machine learning aplications. 
+I work with **computational physics**, applying it to **materials science** and complex systems (the last one mostly for fun). Most of my time is spended coding for my own projects and helping other researchers to improve their data management tools, to **implement workflows**, and to deploy machine learning aplications. 
 
 An important part of my research projects is the use of **bioinspired algorithms** (mostly evolutionary or particles swarm algorithms) and **machine learning approaches** (e.g., ANNs, clustering, and manifold learning), combinig it with well know **classical and first principle calculations** software (both pakages like _LAMMPS_, _xTB_, and _ORCA_; and libraries like _PySCF_).
 
-Recently, I have been doing my research at SIMaP (Grenoble - FR) on the development of [machine learning functionals](https://doi.org/10.1021/acs.jctc.3c00600) to model systems with spin crossover via DFT.  I work as a temporary research engineer on the [DIAMOND project](https://diamond-diadem.github.io/), developping machine learning workflows with other material science researchers.
+Recently, I have been doing my research at SIMaP (Grenoble - FR) on the development of [machine learning functionals](https://doi.org/10.1021/acs.jctc.3c00600) to model systems with spin crossover via DFT.  I work as a temporary CNRS research engineer on the [DIAMOND project](https://diamond-diadem.github.io/), developping machine learning workflows with other material science researchers.
 
 * * *
 
