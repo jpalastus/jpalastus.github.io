@@ -1,10 +1,10 @@
 ### About me
 
-I work with **computational physics**, applying it to **materials science** and complex systems (the last one mostly for fun). Most of my time is spended coding for my own projects and helping other researchers to improve their data management tools, to **implement workflows**, and to deploy machine learning aplications. 
+I work in **computational physics**, applying it to **materials science** and complex systems (the last one mostly for fun). Most of my time is spent coding for my own projects and helping other researchers improve their data-management tools, implement workflows, and deploy machine-learning applications.
 
-An important part of my research projects is the use of **bioinspired algorithms** (mostly evolutionary or particles swarm algorithms) and **machine learning approaches** (e.g., ANNs, clustering, and manifold learning), combinig it with well know **classical and first principle calculations** software (both pakages like _LAMMPS_, _xTB_, and _ORCA_; and libraries like _PySCF_).
+An important part of my research involves **bioinspired algorithms** (mostly evolutionary or particle-swarm algorithms) and **machine-learning approaches** (e.g., ANNs, clustering, and manifold learning), combining them with well-known **classical and first-principles calculation** software (both packages like _LAMMPS_, _xTB_, and _ORCA_; and libraries like _PySCF_).
 
-Recently, I have been doing my research at SIMaP (Grenoble - FR) on the development of [machine learning functionals](https://doi.org/10.1021/acs.jctc.3c00600) to model systems with spin crossover via DFT.  I work as a temporary CNRS research engineer on the [DIAMOND project](https://diamond-diadem.github.io/), developping machine learning workflows with other material science researchers.
+Recently, I have been doing my research at SIMaP (Grenoble, FR) on the development of [machine-learning functionals](https://doi.org/10.1021/acs.jctc.3c00600) to model systems with spin crossover via DFT. I work as a temporary CNRS research engineer on the [DIAMOND project](https://diamond-diadem.github.io/), developing machine-learning workflows with other materials-science researchers.
 
 * * *
 
@@ -35,6 +35,8 @@ Recently, I have been doing my research at SIMaP (Grenoble - FR) on the developm
 ### Some links
 To follow my academic production, you can check my [Scholar Google](https://scholar.google.com/citations?user=KtS3vY4AAAAJ) or [Researcher ID / Publons](https://publons.com/researcher/K-8608-2017/).
 I also try to be active on [Research Gate](https://www.researchgate.net/profile/J_Mendonca3) and [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-almeida-de-mendon%C3%A7a-574598b1/) as much as possible.
+
+I did some stuff for teaching and science comunication, If you want to take a look in a nice exemple: [*Modeling a Hypothetical Zombie Outbreak Can Save Us from Real-World Monsters*](https://doi.org/10.1007/s00283-019-09893-9)
 
 You can also send me an email via **joao-paulo.almeida-de-mendonca@grenoble-inp.fr**, just remember to identify yourself.
 
