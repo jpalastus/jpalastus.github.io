@@ -2,7 +2,7 @@
 
 I work in **computational physics**, applying it to **materials science** (and complex systems sometimes, mostly for fun). An important part of my research involves **bioinspired algorithms** (mostly evolutionary or particle-swarm algorithms) and **machine-learning approaches** (e.g., ANNs, clustering, and manifold learning), combining them with well-known **classical and first-principles calculation** software (both packages like _LAMMPS_, _xTB_, and _ORCA_; and libraries like _PySCF_).
 
-Recently, I have been doing my research at SIMaP (Grenoble, FR) on the development of [machine-learning functionals](https://doi.org/10.1021/acs.jctc.3c00600) to model systems with spin crossover via DFT. Nowadays, I'm part of the [DIAMOND project](https://diamond-diadem.github.io/), developing machine-learning workflows with other materials-science researchers.
+I do my research at SIMaP (Grenoble, FR) on the development of [machine-learning functionals](https://doi.org/10.1021/acs.jctc.3c00600) to explore potential energy surfaces via DFT. I'm also part of the [DIAMOND project](https://diamond-diadem.github.io/), where I worked developing machine-learning workflows with other materials-science researchers.
 
 * * *
 
@@ -34,7 +34,7 @@ Recently, I have been doing my research at SIMaP (Grenoble, FR) on the developme
 To follow my academic production, you can check my [Scholar Google](https://scholar.google.com/citations?user=KtS3vY4AAAAJ) or [Researcher ID / Publons](https://publons.com/researcher/K-8608-2017/).
 I also try to be active on [Research Gate](https://www.researchgate.net/profile/J_Mendonca3) and [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-almeida-de-mendon%C3%A7a-574598b1/) as much as possible.
 
-I did some stuff for teaching and science comunication, If you want to take a look in a nice exemple: [*Modeling a Hypothetical Zombie Outbreak Can Save Us from Real-World Monsters*](https://doi.org/10.1007/s00283-019-09893-9)
+I did some stuff for teaching and science comunication. If you want to take a look in a nice exemple: [*Modeling a Hypothetical Zombie Outbreak Can Save Us from Real-World Monsters*](https://doi.org/10.1007/s00283-019-09893-9)
 
 You can also send me an email via **joao-paulo.almeida-de-mendonca@grenoble-inp.fr**, just remember to identify yourself.
 
