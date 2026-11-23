@@ -1,10 +1,15 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-title: João Paulo Almeida de Mendonça
-logo: profile.png
-description: "Physicist at SIMaP
-Université Grenoble Alpes - France
-(He/Him)"
-show_downloads: false
+title: "João Paulo Almeida de Mendonça"
+description: "Physicist at SIMaP (CNRS · Grenoble INP · UGA), Grenoble, France. Computational physics & materials science: machine-learning functionals, bioinspired optimization and atomistic simulations."
+url: "https://jpalastus.github.io"
+baseurl: ""
+lang: en
+markdown: kramdown
 
+# No Jekyll theme: this site uses the custom layout in _layouts/default.html.
+# Keep profile.png at the repository root (used as logo/avatar/photo).
+
+# Site-wide identity used in the header/footer
+author:
+  name: "João Paulo Almeida de Mendonça"
+  position: "Chargé de recherche CNRS — SIMaP, Grenoble"
+  pronouns: "He/Him"

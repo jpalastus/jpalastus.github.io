@@ -1,0 +1,16 @@
+# Main navigation menu. Add/remove/reorder entries here; the header updates everywhere.
+# url must match the page output path (index.md -> "/", cv.md -> "/cv.html", ...).
+- title: Presentation
+  url: /
+- title: CV
+  url: /cv.html
+- title: Areas of interest
+  url: /areas.html
+- title: Publications
+  url: /publications.html
+- title: Gallery
+  url: /gallery.html
+- title: Opportunities
+  url: /opportunities.html
+- title: Contact
+  url: /contact.html

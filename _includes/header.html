@@ -1,0 +1,22 @@
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="{{ site.baseurl }}/">
+      <img class="brand-avatar" src="{{ site.baseurl }}/profile.png" alt="">
+      <span class="brand-text">
+        <span class="brand-name">{{ site.author.name | default: site.title }}</span>
+        <span class="brand-position">{{ site.author.position }}</span>
+      </span>
+    </a>
+    <div class="header-actions">
+      <button id="theme-toggle" class="icon-btn" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">◐</button>
+      <button id="nav-toggle" class="icon-btn nav-toggle" type="button" aria-label="Toggle menu" aria-expanded="false">☰</button>
+    </div>
+    <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+      <ul>
+        {% for item in site.data.navigation %}
+        <li><a href="{{ site.baseurl }}{{ item.url }}"{% if page.url == item.url %} class="active" aria-current="page"{% endif %}>{{ item.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>

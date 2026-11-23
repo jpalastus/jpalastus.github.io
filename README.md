@@ -1,44 +1,55 @@
-### About me
+# jpalastus.github.io — personal website v2
 
-I work in **computational physics**, applying it to **materials science** (and complex systems sometimes, mostly for fun). An important part of my research involves **bioinspired algorithms** (mostly evolutionary or particle-swarm algorithms) and **machine-learning approaches** (e.g., ANNs, clustering, and manifold learning), combining them with well-known **classical and first-principles calculation** software (both packages like _LAMMPS_, _xTB_, and _ORCA_; and libraries like _PySCF_).
+Static personal website built with **Jekyll** (no theme, custom layout), served automatically by
+**GitHub Pages** from this repository (`https://jpalastus.github.io`). No build step is needed
+locally: just commit and push to `main`; Pages rebuilds the site (~1 min).
 
-I do my research at SIMaP (Grenoble, FR) on the development of [machine-learning functionals](https://doi.org/10.1021/acs.jctc.3c00600) to explore potential energy surfaces via DFT. I'm also part of the [DIAMOND project](https://diamond-diadem.github.io/), where I worked developing machine-learning workflows with other materials-science researchers.
+> Keep `profile.png` at the repository root — it is used as the logo/avatar/home photo.
 
-* * *
+## Structure
 
-### Academic background 
+| Path | What it is | Edit it to… |
+| --- | --- | --- |
+| `_config.yml` | Site title, description, url, author identity | change global metadata |
+| `_data/navigation.yml` | The top navigation menu | add/remove/reorder pages |
+| `_data/socials.yml` | Profiles/socials (Contact page + footer icons) | add a profile (name, url, blurb, SVG path) |
+| `_data/contact.yml` | Emails and SIMaP postal address | update contact info |
+| `_data/metrics.yml` | Citation metrics on the Publications page | refresh numbers + `as_of` date |
+| `_data/publications.yml` | The publication list (newest first) | add/edit a paper (year, title, authors, journal, doi, hal, arxiv, note) |
+| `_layouts/default.html` | Page skeleton (head, header, footer) | change global page structure |
+| `_includes/header.html` | Header + nav rendering | tweak the header |
+| `assets/css/style.css` | **All styling — see `:root` at the top** | change fonts/colors site-wide |
+| `assets/js/main.js` | Dark-mode toggle + mobile menu | change interactive bits |
+| `index.md` | Bio / home page | edit the home content |
+| `cv.md`, `areas.md`, `gallery.md`, `opportunities.md`, `contact.md` | Pages | edit content |
+| `publications.html` | Publications page (renders `_data/publications.yml`) | change layout of the list |
+| `assets/img/gallery/` | Gallery images | add illustration files + `<figure>` in `gallery.md` |
 
-- **2016 - 2020   Physics Ph.D.**
-  - Universidade Federal de Juiz de Fora, UFJF, Juiz De Fora, Brazil
-  - Title: _Técnicas Tradicionais e Modernas para Simulação em Física_ (Traditional and Modern Simulation Techniques in Physics) - [link](https://repositorio.ufjf.br/jspui/handle/ufjf/13131)
-  - Advisor: [Fernando Sato](https://www.fisica.ufjf.br/~sjfsato/)
+## Changing the color schema and fonts (the easy way)
 
-- **2014 - 2016 	Physics Master**
-  - Universidade Federal de Juiz de Fora, UFJF, Juiz De Fora, Brazil
-  - Title: _Estrutura, Espectro e Síntese do Óxido de Grafeno do Ponto de Vista Computacional Atomístico_ (Structure, Spectrum and Synthesis of Graphene Oxide from Computational Atomistic Point of View)  - [link](https://repositorio.ufjf.br/jspui/handle/ufjf/8129)
-  - Advisor: [Fernando Sato](https://www.fisica.ufjf.br/~sjfsato/) & [Georgia Maria Amaral Junqueira](https://scholar.google.com.br/citations?user=7lIH-p4AAAAJ)
+Open `assets/css/style.css` and edit the variables in the `:root { … }` block at the very top:
 
-- **2013 - 2014 	Bachelor in Physics**
-  - Universidade Federal de Juiz de Fora, UFJF, Juiz De Fora, Brazil
-  - Title: _Energia de Superfície de Estruturas Metálicas Porosas com Potencial TB-SMA_ (Surface Energy of Porous Metal Structures via TB-SMA Potential)
-  - Advisor: [Fernando Sato](https://www.fisica.ufjf.br/~sjfsato/)
+- Fonts: `--font-body`, `--font-heading`, `--font-mono`
+- Colors: `--color-bg`, `--color-surface`, `--color-text`, `--color-muted`, `--color-primary`, `--color-accent`, `--color-border`
 
-- **2010 - 2013 	Interdisciplinary Bachelor of Exact Sciences**
-  - Universidade Federal de Juiz de Fora, UFJF, Juiz De Fora, Brazil
-  - Title: _Uma aplicação da Geometria de Manhattan à Cristalografia_ (An Application of the Manhattan Geometry to Crystallography)
-  - Advisor: [Fernando Sato](https://www.fisica.ufjf.br/~sjfsato/)
+Dark mode has its own overrides in `[data-theme="dark"] { … }` (toggle with the ◐ button in the
+header). Two ready-made alternative palettes are included as comments in the same file — copy one
+over `:root` to switch. Nothing else needs to change.
 
-* * *
+## Changing the menu
 
-### Some links
-To follow my academic production, you can check my [Scholar Google](https://scholar.google.com/citations?user=KtS3vY4AAAAJ) or [Researcher ID / Publons](https://publons.com/researcher/K-8608-2017/).
-I also try to be active on [Research Gate](https://www.researchgate.net/profile/J_Mendonca3) and [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-almeida-de-mendon%C3%A7a-574598b1/) as much as possible.
+Edit `_data/navigation.yml` — each entry is `{ title, url }` where `url` is the page output path
+(`/` for home, `/cv.html`, `/publications.html`, …).
 
-I did some stuff for teaching and science comunication. If you want to take a look in a nice exemple: [*Modeling a Hypothetical Zombie Outbreak Can Save Us from Real-World Monsters*](https://doi.org/10.1007/s00283-019-09893-9)
+## Updating publications and metrics
 
-You can also send me an email via **joao-paulo.almeida-de-mendonca@grenoble-inp.fr**, just remember to identify yourself.
+- Add a paper to `_data/publications.yml` (write your own name as `J. P. A. de Mendonça`, it is
+  automatically bolded). Verify DOIs at https://doi.org or via OpenAlex/Crossref.
+- Refresh `_data/metrics.yml` numbers and the `as_of` date from Google Scholar / OpenAlex.
 
-For fellow Brazilians, here is my [Curriculum Lattes](http://lattes.cnpq.br/9634543121104157). 
+## Local preview (optional)
 
-Out of work hours, be free to find me as Alastus in [Instagram](https://www.instagram.com/alastus/), [Steam](https://steamcommunity.com/id/alastus), [Roll20](https://app.roll20.net/users/5980503/alastus)...
-
+```bash
+gem install jekyll bundler   # once
+jekyll serve                 # then open http://localhost:4000
+```

@@ -1,0 +1,16 @@
+# Contact details shown on the Contact page. Edit here to update everywhere.
+
+emails:
+  - label: Institutional (CNRS - Grenoble INP)
+    address: joao-paulo.almeida-de-mendonca@grenoble-inp.fr
+
+postal:
+  name: "SIMaP — Science et Ingénierie des Matériaux et Procédés (UMR 5266, CNRS · Grenoble INP · UGA)"
+  lines:
+    - "João Paulo Almeida de Mendonça"
+    - "1130 rue de la Piscine, Domaine Universitaire"
+    - "BP 75"
+    - "38402 Saint-Martin-d'Hères Cedex, France"
+  phone_label: "Lab secretariat"
+  phone: "+33 (0)4 76 82 65 17"
+  access_page: https://simap.grenoble-inp.fr/en/contacts

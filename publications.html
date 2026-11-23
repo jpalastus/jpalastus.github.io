@@ -1,0 +1,49 @@
+---
+layout: default
+title: Publications
+description: "Verified publication list of João Paulo Almeida de Mendonça with DOIs, HAL links and updated bibliographic metrics."
+---
+
+<p>
+  Full list of peer-reviewed articles, conference proceedings and preprints.
+  Links are DOIs (verified against Crossref/OpenAlex); open-access copies are on
+  <a href="https://hal.science/search/index/?q=%22Almeida+de+Mendon%C3%A7a%22">HAL</a> when available.
+  Metrics below were checked on <strong>{{ site.data.metrics.as_of }}</strong> — see the
+  <a href="https://scholar.google.com/citations?user=KtS3vY4AAAAJ&hl=en">Google Scholar</a> and
+  <a href="https://orcid.org/0000-0003-3253-1220">ORCID</a> profiles for live values.
+</p>
+
+<div class="metrics">
+  {% for src in site.data.metrics.sources %}
+    {% for stat in src.stats %}
+    <div class="metric" title="{{ src.label }}">
+      <span class="value">{{ stat.value }}</span>
+      <span class="label">{{ stat.label }} · {{ src.label }}</span>
+    </div>
+    {% endfor %}
+  {% endfor %}
+</div>
+
+{% assign pubs = site.data.publications | sort: "year" | reverse %}
+{% assign groups = pubs | group_by: "year" %}
+{% for g in groups %}
+<h2 class="pub-year">{{ g.name }}</h2>
+<ul class="pub-list">
+  {% for p in g.items %}
+  <li class="pub">
+    <div class="pub-title">{{ p.title }}</div>
+    <div class="pub-authors">{{ p.authors | replace: 'J. P. A. de Mendonça', '<strong>J. P. A. de Mendonça</strong>' }}</div>
+    <div class="pub-venue">
+      <em>{{ p.journal }}</em>{% if p.volume %}, vol. {{ p.volume }}{% endif %}{% if p.issue %}, issue {{ p.issue }}{% endif %}{% if p.pages %}, {{ p.pages }}{% endif %}
+      {% if p.note %}<span class="pub-note">· {{ p.note }}</span>{% endif %}
+    </div>
+    <div class="pub-links">
+      {% if p.doi %}<a href="https://doi.org/{{ p.doi }}">DOI {{ p.doi }}</a>{% endif %}
+      {% if p.hal %}<a href="https://hal.science/{{ p.hal }}">HAL</a>{% endif %}
+      {% if p.arxiv %}<a href="https://arxiv.org/abs/{{ p.arxiv }}">arXiv {{ p.arxiv }}</a>{% endif %}
+      <a href="https://scholar.google.com/scholar?q={{ p.title | urlencode }}">Cited by</a>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+{% endfor %}

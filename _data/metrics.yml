@@ -1,0 +1,16 @@
+# Bibliographic metrics shown on the Publications page.
+# `as_of` = date these numbers were checked. Update manually when you refresh them.
+as_of: "November 23, 2026"
+
+sources:
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=KtS3vY4AAAAJ&hl=en"
+    stats:
+      - { label: Citations, value: "547" }
+  - label: OpenAlex
+    url: "https://openalex.org/authors/A5079138395"
+    stats:
+      - { label: Works, value: "44" }
+      - { label: Citations, value: "553" }
+      - { label: h-index, value: "14" }
+      - { label: i10-index, value: "16" }
